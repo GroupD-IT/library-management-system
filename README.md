@@ -4,7 +4,7 @@ A web-based application built using **PHP**, **MySQL**, **HTML**, and **CSS** th
 
 ---
 
-##Features
+## 🚀 Features
 
 ### 👤 Admin Panel
 - Add / Edit / Delete Books
